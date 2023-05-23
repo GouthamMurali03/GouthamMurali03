@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GouthamMurali
 - 👀 I’m interested in Application Development
 
-- I’m looking to collaborate on Mobile application development
+- I’m looking to collaborate on freelance projects in flutter
 - You can reach me at gouthammurali03@gmail.com
 
 <!---
